@@ -1,0 +1,3 @@
+﻿username,password,journal_id,status,system_id,fund_type,activity,ptj,costcentre,acc_code,amount,reference
+nimda AS ammar.azman,xs2@nsi,JRV00005/21,draft,vcr_cancel,e01,0100000,s10400,s10400,A0111101,50,VCR0000126/21
+nimda AS ammar.azman,xs2@nsi,JRV00005/21,draft,vcr_cancel,e01,0100000,s10400,s10400,A0111101,55,VCR0000126/21

@@ -1,0 +1,3 @@
+﻿username,password,journal_id,status,system_id,fund_type,activity,ptj,costcentre,acc_code,amount,reference
+nimda AS anita,xs2@nsi,JNL00009/21,draft,mnlop,e02,1600001,s10400,s10400,L0181199,300,801 9999143
+nimda AS anita,xs2@nsi,JNL00009/21,draft,mnl,e02,1600001,s10400,s10400,L0181199,500,801 9999143
