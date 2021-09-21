@@ -64,7 +64,7 @@ step("Logout", async function() {
 	await click('sign out');
 	await waitFor(2000)
 	await click('yes');
-	await closeBrowser();
+// 	await closeBrowser();
 });
 
 step("Click on reverse journal to be verify with <journal_id>", async function(journal_id) {
