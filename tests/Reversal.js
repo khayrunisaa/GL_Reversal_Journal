@@ -10,7 +10,7 @@ step("Login to Kerisi using <uid> and <password>", async function(uid, password)
 });
 
 step("Goto Reversal page", async function() {
-	await click($('//*[@id="header"]/div[1]/a[2]')); //main dashboard
+// 	await click($('//*[@id="header"]/div[1]/a[2]')); //main dashboard
     await click('General Ledger', below('petty cash'));
 	await waitFor(2000);
     await click('Reversal');
