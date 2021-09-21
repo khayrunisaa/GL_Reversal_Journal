@@ -13,7 +13,7 @@ pipeline {
         stage('Excute') {
             steps {
                 // Compile
-                sh 'gauge run specs/01_reverse_new_form'
+                sh 'gauge run specs/01_reverse_new_form.spec'
             }
         }
     }
